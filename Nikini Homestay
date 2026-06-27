@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nature Stay Sigiriya - Homestay in Sri Lanka</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <div class="container">
+            <h1>Nature Stay Sigiriya</h1>
+            <p>Your Peaceful Home Near the Ancient Rock Fortress</p>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container content">
+        
+        <!-- About Section -->
+        <section class="about">
+            <h2>Welcome to Our Homestay</h2>
+            <p>Experience authentic Sri Lankan hospitality just minutes away from the famous Sigiriya Rock. We offer comfortable rooms, delicious home-cooked traditional meals, and a peaceful environment surrounded by nature.</p>
+        </section>
+
+        <!-- Features Section -->
+        <section class="features">
+            <h2>What We Offer</h2>
+            <ul>
+                <li><strong>Comfortable Rooms:</strong> Clean beds, A/C or fan, and private bathrooms.</li>
+                <li><strong>Free Wi-Fi:</strong> Stay connected with high-speed internet.</li>
+                <li><strong>Authentic Food:</strong> Enjoy fresh, homemade Sri Lankan rice and curry.</li>
+                <li><strong>Great Location:</strong> Easy access to Sigiriya Rock, Pidurangala, and wildlife safaris.</li>
+            </ul>
+        </section>
+
+        <!-- Contact & Booking Section -->
+        <section class="contact">
+            <h2>Book Your Stay</h2>
+            <p>Ready to visit? Contact us directly for the best rates!</p>
+            <p><strong>📞 Phone / WhatsApp:</strong> +94 717388681</p>
+            <p><strong>✉️ Email:</strong>Nikinihomestay@gmail.com</p>
+            <p><strong>📍 Location:</strong> Sigiriya, Sri Lanka</p>
+        </section>
+
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 Nature Stay Sigiriya. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
